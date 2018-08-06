@@ -1,7 +1,6 @@
 library(dslabs)
 library(ggplot2)
 library(tidyverse)
-library(dplyr)
 # This demo uses the US gun murders data set from wikipedia https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States_by_state
 # altough the data is similar the dataset used here is from 2010 and the wikipedia data is from 2015
 data(murders)
